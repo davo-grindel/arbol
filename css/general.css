@@ -1,0 +1,96 @@
+/* CSS Document */
+
+#arbol {
+	background-image:url(../img/arbol.jpg);
+	margin: -130px auto 0 auto;
+	height:571px;
+	width:955px;
+	}
+	
+#contenedor {
+	text-align:center;
+	width:955px;
+	height:auto;
+	margin: 30px auto 0 auto;
+	}
+	
+h1 {
+	text-align:center;
+	
+	}
+
+	
+	
+	
+/* estilos de las nubes*/
+
+#copa {
+   text-align:center;
+}
+   
+.nube{
+   color:#090;
+   width: 900px;
+   text-align:center;
+}
+.nube div.etiquetas{
+   font-family: verdana,arial,helvetica;
+   font-size:8pt;
+   padding:5px;
+   text-align:center;
+}
+.nube div.etiquetas span{
+   margin: 0 3px 0 3px;
+   height: 20pt;
+  /* white-space: nowrap;*/
+}
+.nube div.etiquetas span.etiquetatam1{
+	font-family:Georgia, "Times New Roman", Times, serif;
+   font-size: 110%;
+   color:#030;
+}
+.nube div.etiquetas span.etiquetatam2{
+	font-family:"Courier New", Courier, monospace;
+   font-size: 120%;
+   color:#090;
+}
+.nube div.etiquetas span.etiquetatam3{
+	font-family:Arial, Helvetica, sans-serif;
+   font-size: 130%;
+   color:#0C9;
+}
+.nube div.etiquetas span.etiquetatam4{
+	font-family:Tahoma, Geneva, sans-serif;
+   font-size: 140%;
+   color:#690;
+   }
+.nube div.etiquetas span.etiquetatam5{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+   font-size: 150%;
+   color:#0C0;
+}
+.nube div.etiquetas span.etiquetatam6{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   font-size: 160%;
+   color:#390;
+   }
+.nube div.etiquetas span.etiquetatam7{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+   font-size: 170%;
+   color:#693;
+}
+.nube div.etiquetas span.etiquetatam8{
+	font-family:"Comic Sans MS", cursive;
+   font-size: 180%;
+   color:#032;
+}
+.nube div.etiquetas span.etiquetatam9{
+	font-family:"MS Serif", "New York", serif;
+   font-size: 190%;
+   color:#093;
+}
+.nube div.etiquetas span.etiquetatam10{
+	font-family:"Arial Black", Gadget, sans-serif;
+   font-size: 200%;
+   color:#030;
+}
